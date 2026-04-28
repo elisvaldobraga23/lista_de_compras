@@ -43,7 +43,7 @@
 
 body {
   background:
-    url("/assets/img/Cover.svg"),
+    url("./assets/img/Cover.svg"),
     linear-gradient(to right, var(--cor-fundo) 20%, var(--cor-fundo) 85%);
   background-repeat: no-repeat;
   background-size: contain;
